@@ -4,7 +4,6 @@
   "homepage": "http://pragya3008.github.io/pmp",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-router-dom": "^5.1.2",
